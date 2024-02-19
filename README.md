@@ -1,4 +1,5 @@
-## SNAPHOT Voting_Async
+## SNAPHOT Voting_Async Remastered by bit.future
+подпишись быстрее  https://t.me/NewBitFuture
 
 ## config.py
 
